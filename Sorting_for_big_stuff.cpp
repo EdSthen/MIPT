@@ -56,4 +56,5 @@ int main() {
     std :: cout << "Итог: " << sum/100 << std :: endl;
     
     return 0;
+    
 }
